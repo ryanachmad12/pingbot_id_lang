@@ -24,12 +24,12 @@ Pastikan Anda sudah memiliki sistem operasi yang mendukung Python 3 (OS bebas, s
 
 Clone repository PingBot dari repository berikut:
 ```bash
-git clone http://10.173.84.61:3000/ryan/pingbot.git
+git clone https://github.com/ryanachmad12/pingbot_id_lang.git
 ```
 
 Masuk ke direktori proyek:
 ```bash
-cd pingbot
+cd pingbot_id_lang
 ```
 
 ### 3. Install Dependensi Python
