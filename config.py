@@ -1,0 +1,3 @@
+API_TOKEN = 'Token_BOT'
+PROXY_URL = ''
+SHOW_PUBLIC_IP = True

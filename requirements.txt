@@ -1,0 +1,6 @@
+aiogram==2.5
+aiohttp_socks
+requests
+tcping
+python-dotenv
+scapy==2.4.4
